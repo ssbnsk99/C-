@@ -1,0 +1,1 @@
+# C- This piece of code calculates and displays the result of a student based on his internal and external marks obtained. Student will the base class, Internal exam and external exam will be derived class of the base class, the class final result will be derived from all these classes.
